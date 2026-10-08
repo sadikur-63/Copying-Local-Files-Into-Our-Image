@@ -9,4 +9,4 @@ dockerfile-nginx/
 └── README.md       # Project documentation
 docker build -t web_server_image . (Build the Docker Image)
 docker run -d -p 80:80 web_server_image (Run the Container)
-curl.exe http://localhost(est and Verify)
+curl.exe http://localhost(test and Verify)
