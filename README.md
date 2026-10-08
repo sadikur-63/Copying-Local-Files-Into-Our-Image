@@ -1,4 +1,4 @@
-# Copying Local Files Into Our Image
+# Copying Local Files Into my Image
 
 This project demonstrates how to copy local files (such as custom HTML pages) into a Docker image using a `Dockerfile` and Nginx 1.27.0.
 ## Project Structure
